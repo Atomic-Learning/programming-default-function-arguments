@@ -1,0 +1,21 @@
+{
+    "title": "Programming: Default Function Arguments",
+    "slug": "programming-default-function-arguments",
+    "description": "Learn how default argument values make function parameters optional, and how provided values override defaults.",
+    "authors": [
+        "chris-cooling"
+    ],
+    "tags": [
+        "programming",
+        "pseudocode"
+    ],
+    "duration": 3,
+    "prerequisites": [
+        "programming-defining-functions",
+        "programming-calling-functions"
+    ],
+    "related": [
+        "programming-keyword-arguments",
+        "python-keyword-and-default-arguments"
+    ]
+}
